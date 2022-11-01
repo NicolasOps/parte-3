@@ -31,14 +31,15 @@ header {
 }
 
 img {
-    height: 150px;
+    
+    height: 260px;
     margin: auto;
 }
 
 /*Carousel*/
 
 .Estructura-1 .carousel img {
-    height: 350px;
+    height: 200px;
 }
 
 /*Seleccionamos por estructura*/
